@@ -1,0 +1,6 @@
+# Environment Variables
+.env
+
+# Test .ipynb & .py files
+**.ipynb
+test.py
